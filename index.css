@@ -1,0 +1,117 @@
+.page1{
+    background:url('image/8.jpg') no-repeat;
+    background-size: cover;  
+}
+.page1 img{
+    position: absolute;
+}
+.page1 img:nth-of-type(1){
+    height: 5rem;
+    width: 4rem;
+    bottom: 1rem;
+    left: 1rem;
+}
+.page1 p{
+    font-family: "华文彩云";
+    font-size: 20px;
+    color: blueviolet;
+}
+.page2{
+    background:url('image/8.jpg') no-repeat;
+    background-size: cover;
+}
+.page2 img{
+    position: absolute;
+}
+.page2 img:nth-of-type(1){
+    height: 5rem;
+    width: 4rem;
+    left: 3.5rem;
+    top:6.5rem;
+}
+.page2 p{
+    font-family: monospace;
+    font-size: 23px;
+    color: crimson;
+}
+.page3{
+    background:url('image/8.jpg') no-repeat;
+    background-size: cover;
+}
+.page3 img{
+    position: absolute;
+}
+.page3 img:nth-of-type(1){
+    height: 6.5rem;
+    width: 5.4rem;
+    left: 0rem;
+    bottom: 2rem;
+}
+.page3 p{
+    font-family: "华文行楷";
+    font-size: 20px;
+    color: darkorange;
+}
+.page4{
+    background:url('image/8.jpg') no-repeat;
+    background-size: cover;
+}
+.page4 img{
+    position: absolute;
+}
+.page4 img:nth-of-type(1){
+    height: 5rem;
+    width: 4rem;
+    right: 4rem;
+    bottom: 4rem;
+}
+.page4 p{
+    font-family: "华文彩云";
+    font-size: 25px;
+    color: blue;
+}
+.page5{
+    background:url('image/8.jpg') no-repeat;
+    background-size: cover;
+}
+.page5 img{
+    position: absolute;
+}
+.page5 img:nth-of-type(1){
+    height: 5rem;
+    width: 4rem;
+    right: 2rem;
+    bottom: 1.5rem;
+}
+.page5 p{
+    font-family: "黑体";
+    font-size: 28px;
+    color: gold;
+
+}
+.page6{
+    background: url('image/8.jpg')
+    no-repeat;
+    background-size: cover;
+}
+.page6 img{
+    position: absolute;
+}
+.page6 img:nth-of-type(1){
+    height: 6rem;
+    width: 5.5rem;
+    right: 0.5rem;
+    bottom: 0rem;
+}
+.page6 p{
+    font-family: "华文彩云";
+    font-size: 30px;
+    color: mediumspringgreen;
+}
+
+
+
+
+
+
+
